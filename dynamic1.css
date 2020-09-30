@@ -1,5 +1,5 @@
 body{
-  background-color:grey;
+  background-color:green;
 }
 .b0
 {
@@ -11,7 +11,7 @@ body{
 
   list-style:none;
   float:right;
-  width:140px;
+  width:145px;
   height:30px;
   font-size:30px;
   color:solid black;
@@ -96,7 +96,7 @@ body{
 .b7 ul p
 {
   position: absolute;
-  font-size:28px;
+  font-size:29px;
   top:620px;
   left:310px;
 }
